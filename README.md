@@ -11,4 +11,4 @@ Vs Tricky 2.0: https://fnfcdn.com/_site/games/friday-night-funkin-vs-tricky-2-mo
 
 MINECRAFT FNF: https://fnfcdn.com/_site/games/friday-night-funkin-minecraft-mod/index.html
 
-MINECRAFT CLASSIC:https://3kh0.github.io/minecraft-classic/?join=U6TfHeJWFWGzS-Va
+MINECRAFT CLASSIC:https://3kh0.github.io/minecraft-classic/
