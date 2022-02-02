@@ -12,3 +12,5 @@ Vs Tricky 2.0: https://fnfcdn.com/_site/games/friday-night-funkin-vs-tricky-2-mo
 MINECRAFT FNF: https://fnfcdn.com/_site/games/friday-night-funkin-minecraft-mod/index.html
 
 MINECRAFT CLASSIC:https://3kh0.github.io/minecraft-classic/
+
+Wednesdays Infidelity https://fnfcdn.com/_site/games/friday-night-funkin-vs-sad-mickey-mouse-wednesdays-infidelity-mod/index.html
