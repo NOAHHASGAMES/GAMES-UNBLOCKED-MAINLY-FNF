@@ -20,3 +20,5 @@ Wednesdays Infidelity: https://fnfcdn.com/_site/games/friday-night-funkin-vs-sad
 VS Shaggy 2.5: https://fnfcdn.com/_site/games/friday-night-funkin-vs-shaggy-2-5-mod/index.html
 
 Soft MOD: https://fnfcdn.com/_site/games/friday-night-funkin-soft-mod/index.html
+
+Edd Challenge: https://fnfcdn.com/_site/games/friday-night-funkin-vs-edd-tord-challengedd-mod/index.html
