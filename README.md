@@ -15,6 +15,8 @@ MINECRAFT FNF: https://fnfcdn.com/_site/games/friday-night-funkin-minecraft-mod/
 
 MINECRAFT CLASSIC: https://3kh0.github.io/minecraft-classic/
 
+Minecraft Java (Needs password): https://mess.eu.org/web/
+
 Wednesdays Infidelity: https://fnfcdn.com/_site/games/friday-night-funkin-vs-sad-mickey-mouse-wednesdays-infidelity-mod/index.html
 
 VS Shaggy 2.5: https://fnfcdn.com/_site/games/friday-night-funkin-vs-shaggy-2-5-mod/index.html
