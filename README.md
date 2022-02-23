@@ -22,3 +22,5 @@ VS Shaggy 2.5: https://fnfcdn.com/_site/games/friday-night-funkin-vs-shaggy-2-5-
 Soft MOD: https://fnfcdn.com/_site/games/friday-night-funkin-soft-mod/index.html
 
 Edd Challenge: https://fnfcdn.com/_site/games/friday-night-funkin-vs-edd-tord-challengedd-mod/index.html
+
+VS Pippy Spongebob: https://fnfcdn.com/_site/games/friday-night-funkin-vs-high-effort-pibby-spongebob-mod/index.html
